@@ -14,3 +14,5 @@ Un blog hecho en el [ curso de Git y Github](https://platzi.com/cursos/git-githu
 * Disponible para todas las edades
 
 Si tambien quiere aprender ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
+
+readme-mejorado
